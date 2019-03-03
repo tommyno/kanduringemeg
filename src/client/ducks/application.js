@@ -1,6 +1,6 @@
 const initialState = {
     callform: {
-        numberInput: '+4790634868',
+        numberInput: '+4799999999',
         buttonDisabled: false,
     },
     phoneScreen: {
